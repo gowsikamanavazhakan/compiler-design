@@ -15,3 +15,17 @@ int main()
 printf("enter the value:");
 yylex();
 }
+
+OUTPUT:
+enter : +
+operator
+enter : int
+keyword
+enter : 65
+constants
+enter : ^
+special character
+enter : "neethu"
+string
+enter : tom
+identifier
