@@ -19,3 +19,15 @@ yyout=fopen("output.txt","w");
 yylex();
 return 0;
 }
+
+OUTPUT:
+<html>
+
+<body>
+
+<h1>
+</h1>
+
+</body>
+
+</html>
