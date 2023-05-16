@@ -30,3 +30,9 @@ int main()
     
     return 0;
 }
+
+OUTPUT:
+Enter an identifier: a12
+a12 is a valid identifier.
+Enter an identifier: 12
+12 is not a valid identifier.
