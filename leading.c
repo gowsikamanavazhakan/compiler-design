@@ -37,3 +37,16 @@ int main()
 		printf(check(s[i]));
 	}
 }
+
+OUTPUT:
+enter the no of production : 3
+
+enter the production 1 : a->zs
+
+enter the production 2 : b->LM
+
+enter the production 3 : L->a
+
+FIRST(a) : z -
+FIRST(b) : a -
+FIRST(L) : a -
