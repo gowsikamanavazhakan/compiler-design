@@ -157,3 +157,11 @@ int main()
 
 	return (0);
 }
+
+OUTPUT:
+Enter an input string: a
+Input is an identifier.
+Enter an input string: 1
+Input is a constant.
+Enter an input string: +
+Input is an operator.
