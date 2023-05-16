@@ -17,3 +17,10 @@ int temp_count = 1,i=0,j;
             }
             return 0;
 }
+
+OUTPUT:
+Enter an infix expression: a+b+c
+Three Address Code:
+t1 = a + b
+t2 = t1  + c
+t3 = t2
