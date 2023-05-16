@@ -15,3 +15,9 @@ int main() {
    printf("Value of a + (b * c) / d is  : %d\n" ,  e );
    return 0;
 }
+
+OUTPUT:
+Value of (a + b) * c / d is : 103
+Value of ((a + b) * c) / d is  : 103
+Value of (a + b) * (c / d) is  : 74
+Value of a + (b * c) / d is  : 67
