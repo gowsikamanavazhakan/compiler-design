@@ -19,3 +19,10 @@ int main()
 	}
 	
 }
+
+enter : +
++ valid operator
+
+enter : 7h
+7 invalid operator
+h invalid operator
