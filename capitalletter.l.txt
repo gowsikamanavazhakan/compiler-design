@@ -12,3 +12,8 @@ yylex();
 printf("\n");
 return 0;
 }
+
+OUTPUT:
+C:\Users\P Sai vinitha>a
+enter string : vinitha
+VINITHA
