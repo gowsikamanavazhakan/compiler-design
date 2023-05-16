@@ -12,3 +12,25 @@ yylex();
 printf("\n");
 return 0;
 } 
+
+OUTPUT:
+C:\Users\P gowsika>set path=C:\Program Files (x86)\GnuWin32\bin
+
+C:\Users\P gowsika>flex mobilenumber.l.txt
+
+C:\Users\P gowsika>set path=C:\MinGW\bin
+
+C:\Users\P gowsika>gcc lex.yy.c
+
+C:\Users\P gowsika>a
+
+ enter number9876523456
+
+ mobile number valid
+
+
+C:\Users\P gowsika>a
+
+ enter number0989098
+
+ mobile number invalid
