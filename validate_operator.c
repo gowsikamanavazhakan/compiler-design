@@ -20,6 +20,7 @@ int main()
 	
 }
 
+OUTPUT:
 enter : +
 + valid operator
 
