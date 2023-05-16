@@ -10,3 +10,9 @@ int main()
 printf("enter any URL");
 yylex();
 }
+
+OUTPUT:
+enter : https://www.goo.co
+valid URL://www.goo.co
+enter : 34209841jfnckja.dvio
+invalid URL
