@@ -48,3 +48,18 @@ void main()
     x++;
     j++;
    }}}}
+
+OUTPUT:
+Expression terminated by $:S+V=N$
+Given Expression:S+V=N
+ Symbol Table
+Symbol   addr    type
+S        12283392        identifier
+
+ +       12283488        operator
+
+V        12283552        identifier
+
+ =       12283648        operator
+
+N        12283728        identifier
