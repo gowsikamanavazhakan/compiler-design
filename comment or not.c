@@ -45,6 +45,7 @@ void main()
     getch();
 }
 
+OUTPUT:
 enter :/* neethu
 comment line
 enter :neethu
