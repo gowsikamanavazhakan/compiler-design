@@ -35,3 +35,26 @@
     } 
 	while (strcmp(icode[++i], "exit") != 0);
 }
+
+OUTPUT:
+ Enter the set of intermediate code (terminated by exit):
+a=a+b
+b=g+h
+c=a-n
+a=c*a
+exit
+
+ target code generation
+************************
+        Mov a,R0
+        ADD b,R0
+        Mov R0,a
+        Mov g,R1
+        ADD h,R1
+        Mov R1,b
+        Mov a,R2
+        SUB n,R2
+        Mov R2,c
+        Mov c,R3
+        MUL a,R3
+        Mov R3,a
