@@ -70,3 +70,13 @@ void  addToResult(char c)
             return;
    followResult[m++]=c;
 }
+
+OUTPUT:
+Enter the no.of productions: 3
+ Enter 3 productions
+Production with multiple terms should be give as separate productions
+A->As
+B->Bbc
+C->Lk
+Find FOLLOW of -->A
+FOLLOW(A) = { $ s  }
