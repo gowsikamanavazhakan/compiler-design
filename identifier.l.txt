@@ -12,3 +12,12 @@ yylex();
 printf("\n");
 return 0;
 } 
+
+OUTPUT:
+ enter identifiersjkdjwhe
+
+valid identifier
+
+328472
+
+not an identifier
