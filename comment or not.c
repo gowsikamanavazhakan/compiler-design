@@ -44,3 +44,10 @@ void main()
     }
     getch();
 }
+
+enter :/* neethu
+comment line
+enter :neethu
+not a comment line
+enter ://neethu
+comment line
