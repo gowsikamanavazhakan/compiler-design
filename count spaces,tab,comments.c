@@ -23,3 +23,6 @@ int main()
 	}
 
 }
+OUTPUT:
+Enter a string: h e l lo
+Number of white spaces and new lines: 4
