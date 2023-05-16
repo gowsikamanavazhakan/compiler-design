@@ -12,3 +12,15 @@ yylex();
 printf("\n");
 return 0;
 }
+
+OUTPUT:
+C:\Users\P gowsika>gcc lex.yy.c
+
+C:\Users\P gowsika>a
+enter:+
+mathematical operator
+
+
+C:\Users\P gowsika>a
+enter:a1
+not a mathematical operator
