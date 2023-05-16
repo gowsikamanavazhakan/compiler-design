@@ -10,3 +10,8 @@ int main()
 }
 int yywrap()
 {}
+
+OUTPUT:
+C:\Users\P gowsika>a
+12-10-2004
+Valid date of birth
