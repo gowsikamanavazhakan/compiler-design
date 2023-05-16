@@ -60,3 +60,26 @@ printf("Total no. of lines are: %d\n",lineno);
 fclose(f1);
 getch();
 }
+
+OUTPUT:
+Non-Word Character: #
+Identifier/Keyword: include
+Non-Word Character: <
+Identifier/Keyword: stdio
+Non-Word Character: .
+Identifier/Keyword: h
+Non-Word Character: >
+Identifier/Keyword: int
+Identifier/Keyword: main
+Non-Word Character: (
+Non-Word Character: )
+Non-Word Character: {
+Identifier/Keyword: printf
+Non-Word Character: (
+Hello, World!\n
+Non-Word Character: )
+Non-Word Character: ;
+Identifier/Keyword: return
+Numeric Literal: 0
+Non-Word Character: ;
+Non-Word Character: }
