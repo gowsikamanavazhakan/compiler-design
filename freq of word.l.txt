@@ -90,3 +90,8 @@ int main(int argc, char *argv[]) {
     cleanupWordFrequencies();
     return 0;
 }
+
+OUTPUT:
+C:\Users\P Sai vinitha>a
+hii hii
+Word Frequency:hii=2
