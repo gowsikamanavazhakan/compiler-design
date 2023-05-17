@@ -11,3 +11,12 @@ int main() {
     yylex();
     return 0;
 }
+
+OUTPUT:
+C:\Users\P Sai vinitha>a
+h e l l o
+Token: h
+Token: e
+Token: l
+Token: l
+Token: o
